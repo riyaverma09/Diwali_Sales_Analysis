@@ -42,8 +42,15 @@ Clothing, Footwear, and Electronics are top-selling product categories.
 ## 🛠️ Tech Stack
 
 Python
-Pandas, NumPy
-Matplotlib, Seaborn
+
+Pandas
+ 
+ NumPy
+
+Matplotlib
+
+Seaborn
+
 Jupyter Notebook
 
 ## 🌟 Features
