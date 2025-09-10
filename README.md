@@ -46,12 +46,17 @@ Pandas, NumPy
 Matplotlib, Seaborn
 Jupyter Notebook
 
-🌟 Features
+## 🌟 Features
+Cleaned and preprocessed real-world style dataset
 
-1.Cleaned and preprocessed real-world style dataset
-2.Gender, age, and state-wise sales trends
-3.Demographic-based insights (marital status & occupation)
-4.Category-wise sales analysis
-5.Professional EDA with visualizations
+Gender, age, and state-wise sales trends
+
+Demographic-based insights (marital status & occupation)
+
+Category-wise sales analysis
+
+Professional EDA with visualizations
+
+
 
 👩‍💻 Created by Riya Verma
