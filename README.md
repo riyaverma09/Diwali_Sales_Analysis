@@ -1,8 +1,8 @@
-🎉 Diwali Sales Analysis
+## 🎉 Diwali Sales Analysis
 
 Explore Diwali sales across India — view customer demographics, purchasing trends, and top-performing product categories through interactive visualizations.
 
-📌 About the Project
+## 📌 About the Project
 
 This project analyzes Diwali Sales Data to uncover business insights and customer buying behavior.
 Users can explore sales trends by gender, age, state, marital status, occupation, and product categories.
@@ -10,7 +10,7 @@ Users can explore sales trends by gender, age, state, marital status, occupation
 Dataset: A Diwali sales dataset containing customer details, product categories, purchase amounts, and demographics.
 The project demonstrates data cleaning, EDA, and visualization skills.
 
-⚙️ How It Works
+## ⚙️ How It Works
 
 Data & Cleaning:
 Diwali Sales Data.csv was preprocessed (handling null values, renaming columns, filtering irrelevant data).
@@ -21,7 +21,7 @@ Sales patterns were studied based on demographic attributes like Gender, Age Gro
 Visualizations:
 Created using Matplotlib and Seaborn, with charts showing spending habits, top states, age group contributions, and product categories.
 
-📊 Insights
+## 📊 Insights
 
 Females shop more and spend more compared to males.
 
@@ -39,7 +39,7 @@ Clothing, Footwear, and Electronics are top-selling product categories.
 - Kaggle Notebook: [View on Kaggle](https://www.kaggle.com/code/riyaverma2/diwalisaleproject01)
 - Jupyter Notebook: Run `DiwaliSaleProject01.ipynb` locally to see the analysis and visualizations.
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 Python
 Pandas, NumPy
