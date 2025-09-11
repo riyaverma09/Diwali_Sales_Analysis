@@ -36,7 +36,7 @@ Working professionals dominate the customer base.
 Clothing, Footwear, and Electronics are top-selling product categories.
 
 ## 🚀 Demo
-- Kaggle Notebook: [View on Kaggle](https://www.kaggle.com/code/riyaverma2/diwalisaleproject01)
+- Kaggle Notebook: [View on Kaggle](https://www.kaggle.com/code/riyaverma2/diwalisaleproject)
 - Jupyter Notebook: Run `DiwaliSaleProject01.ipynb` locally to see the analysis and visualizations.
 
 ## 🛠️ Tech Stack
